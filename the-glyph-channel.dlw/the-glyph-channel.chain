@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 444
+slug  : the-glyph-channel
+seal  : 12a3bf3778c63f56c91fa054cc13d0121ea38124a457868c57fcdc9bb724674a
+prev  : 692f47cc445c598ae3bcf2e3374c0da6dc61b0949945928b56cbc19d573c5bba
+link  : 0e8d2c4405dd9e63a23a4a08e023c2ce8affc9afac8481abf03ddf4210af08fd
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
